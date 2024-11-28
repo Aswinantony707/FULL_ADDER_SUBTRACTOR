@@ -1,18 +1,21 @@
 # FULL_ADDER_SUBTRACTOR
+#NAME:S.ASWIN ANTONY
+#RIG NO:24001423
+#EXPERIMENT-4:FULL ADDER AND FULL SUBRACT0R
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-**AIM:**
+##AIM:
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-**Equipments Required:**
+##EQIPMENTS REQUIRED:
 
 Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-**Full Adder and Full Subtractor**
+FULL ADDER AND FULL SUBRACTOR:
 
 **Full Adder**
 
