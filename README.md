@@ -62,7 +62,9 @@ Borrow out = A'Bin + A'B + BBin
 FULL ADDER:
 
 ![Screenshot 2024-12-08 202704](https://github.com/user-attachments/assets/82c3f714-e1b0-46f7-b2ed-89fe0b22eab0)
+
 FULL SUBTRACTOR:
+
 ![Screenshot 2024-12-08 203019](https://github.com/user-attachments/assets/9ea14411-48b4-489c-a3ab-48a201fed9e9)
 
 
@@ -73,6 +75,7 @@ FULL ADDER:
 ![Screenshot 2024-12-08 201219](https://github.com/user-attachments/assets/4155685d-b18c-4b72-b841-3c18b715ffc2)
 
 FULL SUBTRACTROR:
+
 ![Screenshot 2024-12-08 201237](https://github.com/user-attachments/assets/99061a54-1d9e-4c5c-97b4-718d39dd6123)
 
 # OUTPUT WAVEFORM:
